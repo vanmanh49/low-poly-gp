@@ -4,6 +4,8 @@ A low-poly 3D racing game for the browser, built with Three.js. Race three laps 
 
 **Play:** https://vanmanh49.github.io/low-poly-gp/
 
+![Low-Poly GP race in progress: side by side with a rival in 3rd place at 175 km/h, with the HUD and minimap](docs/screenshot.png)
+
 ## Controls
 
 | Key | Action |
